@@ -53,5 +53,5 @@ Example:
 ```
 Applications can only have one ng-view directive, and this will be the placeholder for all views provided by the route.
 
-# $routeProvider
+#### $routeProvider
 With the $routeProvider you can define what page to display when a user clicks a link.
