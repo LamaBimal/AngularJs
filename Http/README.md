@@ -13,7 +13,7 @@ The .get method is a shortcut method of the $http service. There are several sho
 - .put()
 The methods above are all shortcuts of calling the $http service:
 
-Basic Example
+#### Basic Example
 ```HTML
 <div ng-app="myApp" ng-controller="myCtrl"> 
 
